@@ -1,0 +1,20 @@
+.crumbs {
+  position: absolute;
+  padding: 10rem;
+  box-sizing: border-box;
+  color: #ccc;
+  top: 0;
+  left: 0;
+  z-index: 9;
+  font-size: 10rem;
+}
+.crumbs span,
+.crumbs a {
+  font-size: 10rem;
+}
+.crumbs span {
+  color: #fff;
+}
+.crumbs a {
+  color: #ccc;
+}
